@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and 
 
 ```
+[Link](/scatter.html)
 ![Image](/image/0318.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
