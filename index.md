@@ -28,7 +28,13 @@ Syntax highlighted code block
 ```
 [Link](scatter.html)
 ![Image](/image/0318.png)
+```python
+import plotly.express as px
 
+fig = px.scatter(x=range(10),y-range(10))
+
+fig.write_html()
+```
 
 
 
